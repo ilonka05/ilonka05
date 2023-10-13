@@ -1,4 +1,4 @@
-# Привет, меня зовут Илона  <img src="https://github.com/ilonka05/QRkot_spreadsheets/assets/98665699/f5089b44-378b-46b1-910b-4cafb76be031" width="30px">
+# Привет, меня зовут Илона  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Qxc3lybXJmaHduNmJsZXBiNHduNnl3bjc3emVmajE5MHJteW96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Pa6Oh1YP2hySOfldG/source.gif">
 
 ### :herb: Обо мне:
 
