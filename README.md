@@ -1,6 +1,6 @@
 # Привет, меня зовут Илона  <img src="https://github.com/ilonka05/ilonka05/assets/98665699/99ca474e-13e9-4e17-be04-6dfc2e34f063" width="30px">
 
-:herb: Обо мне:
+- 🌿 Обо мне:
 
 Я начинающий backend-разработчик на Python. Программирование очень меня вдохновляет, оно позволяет постоянно совершенствоваться и находить новые решения. Сейчас я нацелена найти работу в данной сфере и вырасти сильным специалистом. Здесь Вы можете посмотреть мои проекты в рамках учебных курсов, а также тут будут появляться и новые pet-проекты.
 
@@ -12,11 +12,11 @@
 
 ---
 
-### :mailbox_with_mail: Контакты для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ilonyashka) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilonka19901996@gmail.com)
+### 📬 Контакты для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ilonyashka) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilonka19901996@gmail.com)
 
 ---
 
-### :herb: Используемые технологии:
+### 🌿 Используемые технологии:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
